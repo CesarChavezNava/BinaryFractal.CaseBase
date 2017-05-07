@@ -1,0 +1,2 @@
+# BinaryFractal.CaseBase
+CaseBase
